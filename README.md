@@ -3,7 +3,7 @@
 
 ## Description
 
-This is a Next.js project designed to demonstrate how to set up, develop, build, and deploy your application. This README will guide you through the steps to get your project running locally and in production.
+This is a Next.js project designed to demonstrate how to set up, develop, build, and deploy your application.
 
 ---
 
